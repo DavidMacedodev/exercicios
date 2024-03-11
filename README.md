@@ -10,7 +10,7 @@ d) 81
 e) 13
 f) 200
 <br />
-questao 4) 
+questao 4) <br/> 
 Quando estou em uma sala com três interruptores e três lâmpadas em salas diferentes, e não consigo ver as lâmpadas da sala em que estou, eu posso resolver esse problema da seguinte maneira:
 
 Na minha primeira ida à sala das lâmpadas, eu ligo um dos interruptores e deixo os outros dois desligados.
