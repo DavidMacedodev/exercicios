@@ -1,7 +1,7 @@
 # exercicios
 
-1) 91
-3) 
+questao 1) 91
+questao 3) 
 a) 9
 b) 128
 c) 49
